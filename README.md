@@ -1,1 +1,1 @@
-My coding practices
+My coding practices for class
