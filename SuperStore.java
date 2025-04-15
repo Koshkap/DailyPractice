@@ -1,4 +1,3 @@
-
 // SuperStore Exercise: Access Modifiers & Object Modeling Focus
 
 // TODO: Define a class called Product with:
