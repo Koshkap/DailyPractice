@@ -1,1 +1,1 @@
-My coding practices for java and computing fundamentals class
+My coding practices for java and computing fundamentals
